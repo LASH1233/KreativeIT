@@ -1,0 +1,1 @@
+It is a python file which help in the testing of APIs and the number of concurrent user it can sustain at once . This python script is use in locust to get the accurate information or anu error occur during the process
